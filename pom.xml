@@ -39,6 +39,7 @@
 						<password>Abhishek1</password>
 						<applicationName>hello4323</applicationName>
 						<environment>Sandbox</environment>
+						<objectStoreV2>true</objectStoreV2>
 					</cloudHubDeployment>
 				</configuration>
 			</plugin>
